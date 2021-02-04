@@ -8,10 +8,14 @@ armo
 armorum
 
 corpus, corporis n: body
-corpora (nom, pl, n)
+corpora (nom, pl, n) 
+ADJ aliae corpa
 corpore (sing, abl, n)
+ADJ alio corpore
 corporis (sing gen, n)
+ADJ alii corporis
 corpus (?)
+ADJ (?)
 
 dux, ducis m: leader
 duce (sing, abl, masc)
