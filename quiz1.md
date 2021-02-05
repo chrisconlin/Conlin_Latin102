@@ -1,3 +1,5 @@
+💯🎈🎉🎊
+
 Chris Conlin 
 
 Part 1: recognizing nouns
@@ -12,7 +14,7 @@ in coniugium
 conjugium, conjugii n. It is a second declension noun and it is neuter. That being said, it is neuter, singular, accusative, and 2nd declension. One could think that it is also nominative singular but we know that the preposition phrase must match with the accusative. Knowing that it is accusative, this prepositional phrase is an Accusative of place to which or motion toward. Therefore, it should translate to “into marriage” 
 
 Animo
-Aimus, animi. Noun masculine. It is a 2nd declension and it is masculine. That being said, it is masculine, 2nd declension, singular, and it can either be dative or ablative. 
+Animus, animi. Noun masculine. It is a 2nd declension and it is masculine. That being said, it is masculine, 2nd declension, singular, and it can either be dative or ablative. 
 
 Uirgine
 virgo, virginis f: young woman. It is a 3rd declension feminine noun. That being said, it is 3rd declension, feminine, singular, ablative. 
