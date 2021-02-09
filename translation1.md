@@ -39,16 +39,28 @@ Hercules
         eiusque filiam Deianiram deuirginasset,
         
 volebat eam uxorem ducere. 
+
         cum Hercules abesset, 
+        
 centaurus Eurytion petit Deianiram uxorem. 
 
         quia pater eius centaurum timebat, 
+        
 pollicitus est 
+
         se daturum.
-Tempore certo, venit centaurus cum fratribus ad nuptias. 
+        
+        
+Tempore certo, venit centaurus cum fratribus ad nuptias.
+
+
 Hercules interuenit 
+
 et centaurum interfecit, 
+
 Deianiram abduxit.
+
+
 B. Grammatical questions 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 Dexamenus, dexameni, masculine. The form presented is accusative singular (It is a name). 
