@@ -144,4 +144,5 @@ Translation:
 
 
 When Hercules came to the hospitality of King, Dexamenus, and deflowered his daughter, he wanted to lead her as his wife. When Hercules was absent, the Centaur Eurytion asked for the wife, Deianira. Because the father of Deianira was afraid of the Centaur, he promised that he would offer her. 
+
 At that given moment, the centaur came to the wedding with his brothers. Hercules intervened and killed the Centaur, he abducted Deianira. 
