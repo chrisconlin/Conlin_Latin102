@@ -34,9 +34,9 @@ that the translation was easy.
 
 Hercules 
 
-  cum in hospitium ad Dexamenum regem uenisset 
+        cum in hospitium ad Dexamenum regem uenisset 
   
-  eiusque filiam Deianiram deuirginasset,
+        eiusque filiam Deianiram deuirginasset,
 volebat eam uxorem ducere. 
 cum Hercules abesset, 
 centaurus Eurytion petit Deianiram uxorem. 
