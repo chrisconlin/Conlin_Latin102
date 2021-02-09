@@ -31,9 +31,12 @@ Place each clause on a separate line, indented to show its level of subordinatio
 They felt relieved
 when they realized
 that the translation was easy.
+
 Hercules 
-cum in hospitium ad Dexamenum regem uenisset 
-eiusque filiam Deianiram deuirginasset,
+
+  cum in hospitium ad Dexamenum regem uenisset 
+  
+  eiusque filiam Deianiram deuirginasset,
 volebat eam uxorem ducere. 
 cum Hercules abesset, 
 centaurus Eurytion petit Deianiram uxorem. 
