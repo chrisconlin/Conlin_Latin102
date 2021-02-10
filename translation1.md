@@ -48,7 +48,7 @@ centaurus Eurytion *petit* Deianiram uxorem.
         
 *pollicitus est* 
 
-        se daturum.
+        se *daturum*.
         
         
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.
