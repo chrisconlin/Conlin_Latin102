@@ -34,31 +34,31 @@ that the translation was easy.
 
 Hercules 
 
-        cum in hospitium ad Dexamenum regem uenisset 
+        cum in hospitium ad Dexamenum regem *uenisset*
   
-        eiusque filiam Deianiram deuirginasset,
+        eiusque filiam Deianiram *deuirginasset*,
         
-volebat eam uxorem ducere. 
+*volebat* eam uxorem ducere. 
 
-        cum Hercules abesset, 
+        cum Hercules *abesset*, 
         
-centaurus Eurytion petit Deianiram uxorem. 
+centaurus Eurytion *petit* Deianiram uxorem. 
 
-        quia pater eius centaurum timebat, 
+        quia pater eius centaurum *timebat*, 
         
-pollicitus est 
+*pollicitus est* 
 
         se daturum.
         
         
-Tempore certo, venit centaurus cum fratribus ad nuptias.
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 
 
-Hercules interuenit 
+Hercules *interuenit* 
 
-et centaurum interfecit, 
+et centaurum *interfecit*, 
 
-Deianiram abduxit.
+Deianiram *abduxit*.
 
 
 B. Grammatical questions 
