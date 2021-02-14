@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation 1: wives of Hercules 
 
 
@@ -26,7 +28,8 @@ Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiramde
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
 
-A. Grammatical analysis 
+A. Grammatical analysis  ❌ *Please use markdown to indicate level of indication unambigously: use `>` at the beginning of the line for one level, `>>` for two levels, etc.*
+
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause. For example, if you were given the English sentence, “They felt relieved when they realized that the translation was easy.”, you would format it as
 They felt relieved
 when they realized
@@ -63,19 +66,19 @@ Deianiram *abduxit*.
 
 B. Grammatical questions 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-Dexamenus, dexameni, masculine. The form presented is accusative singular (It is a name). 
+Dexamenus, dexameni, masculine. The form presented is accusative singular (It is a name). 👍 *(but let's capitalize genitive s., too, for a name)*
 
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
-Deianira, deianirae, feminine. The form presented is accustive singular. (It is also a name)
+Deianira, deianirae, feminine. The form presented is accustive singular. (It is also a name) 👍 *(but let's capitalize genitive s., too, for a name)*
 
 
 Identify the form abesset, and explain why it is this tense and mood.
-Third person, singular, imperfect, active, subjunctive. It is subjunctive because it is secondary sequence, referring to circumstance and not time, and same time relation of subordinate clause. 
+Third person, singular, imperfect, active, subjunctive. It is subjunctive because it is secondary sequence, referring to circumstance and not time, and same time relation of subordinate clause. ❌
 
 
 Identify the form uenisset, and explain why it is this tense and mood.
-third-person singular pluperfect active subjunctive. We need the pluperfect subjunctive here because it is expressing an action that happened prior to the action of the independent clause. It is subjunctive because it is emphasizing circumstance. 
+third-person singular pluperfect active subjunctive. We need the pluperfect subjunctive here because it is expressing an action that happened prior to the action of the independent clause. It is subjunctive because it is emphasizing circumstance. 👍 *But maybe better to reverse order of your explanation: it makes  no sense to choose a tense of the subjunctive until you know you need the subjunctive!*
 
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb?
