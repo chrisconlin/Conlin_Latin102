@@ -35,6 +35,7 @@ Pater: nom singular of father
 eius: gen signular "of her"
 Eurytus: nom sg of the name 
 nolo, nolle, nolui, -  :not to want. We need the 3rd, singular, pluperfect, subjucntive for did not want (as it is occuring before the event in the independent clause): noluisset
+nuptiae, nuptiarum (f.): “marriage, wedding”. Accusative singular is nu
 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
