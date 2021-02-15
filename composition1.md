@@ -35,9 +35,29 @@ Pater: nom singular of father
 eius: gen signular "of her"
 Eurytus: nom sg of the name 
 nolo, nolle, nolui, -  :not to want. We need the 3rd, singular, pluperfect, subjucntive for did not want (as it is occuring before the event in the independent clause): noluisset
-nuptiae, nuptiarum (f.): “marriage, wedding”. Accusative singular is nu
+nuptiae, nuptiarum (f.): “marriage, wedding”. Accusative singular is nupitas (very unsual as the nom sg looks like a first declension gen sg). 
+Hercules: nom, sg. 
+capio, capĕre, cepi, captus: to take, seize. 3rd-io conjugation. (We need the 3rd, singular, perfect, active, indicative): cepit
+Oechliam: accusative 
+
+
+"Cum pater eius Eurytus noluisset nupitas, Hercules cepit Oechliam." 
 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
+Indirect statments require the verb of the head with the correct form of the infinite and the subject in the accusative
+"Hercules said that he will kill the parents of Lole"
+Hercules, Herculis m. - Hercules. Accusative is Herculem
+dīcō, dīcere, dīxī, dictus - to say, speak. Dixit 
+he in accusative: eum 
+we need the 3rs, singular, future, active, indicative. interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. interficiet
+parēns, parentis m./f. - parent. We need the accusative plural with is parentes.
+Lolis: gentivie singular 
+
+"Herculem dixit eum interficiet parentes Lolis"
+
+
+
+
 Your fourth sentence should say that Iole endured that her parents were killed.
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
