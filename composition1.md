@@ -17,8 +17,10 @@ When Hercules came to Oechalia, he asked to marry Iole.
 Cum: when 
 Hercules: Nom, sg 
 veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, pluperfect, active, subjunctive. venisset
-lolen (in accusative)
+Oechaliam (accusative, sg)
 rogō, rogāre, rogāvī, rogātus - to ask. We need the 3rd person, singular, perfect, active, indicative. rogavit
+lolen (in accusative)
+
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
 
