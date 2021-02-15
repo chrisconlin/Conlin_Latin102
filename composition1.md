@@ -1,7 +1,7 @@
 Vocabulary
 (Words in your core vocabulary list are not translated.)
 
-omnis, omnis: ally, every
+omnis, omnne: all, every
 capio, capĕre, cepi, captus: to take, seize
 mitto, mittĕre, misi, missus: to send
 nolo, nolle, nolui, -  :not to want
@@ -56,8 +56,25 @@ Lolis: gentivie singular
 
 "Herculem dixit eum interficiet parentes Lolis"
 
+your fourth sentence should say that Iole endured that her parents were killed.
+"Iole endured that her parents were killed" 
+accusative singular for indirect statement: Lolen
+patior, pati, -, passus: endure, suffer;: ""patit""
+parentes: accusitve plural 
+3rd person, plural, perfect, passive, indiciative: interfecti sunt 
+
+"Lolen patit parentes interfecti sunt."
 
 
-
-Your fourth sentence should say that Iole endured that her parents were killed.
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
+"When Hercules killed all the parents, he sent Iole to Deianira." 
+Cum: When 
+Hercules: nom, sg. 
+interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. It is occuring before the event of the independent clause so we are going to go with the 3rd, singular, pluperfect, active, subjunctive: interfecisset
+omnis, omnne: all, every: omnes
+parentes: accustive plural
+mitto, mittĕre, misi, missus: to send: We need the 3rd person, singular, perfect, active, indicative. misit
+Iolen: accusative singular
+ad+acc: ad 
+
+
