@@ -66,7 +66,7 @@ Deianiram *abduxit*.
 
 B. Grammatical questions 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-Dexamenus, dexameni, masculine. The form presented is accusative singular (It is a name).
+Dexamenus, Dexameni, masculine. The form presented is accusative singular (It is a name). 👍 *(but let's capitalize genitive s., too, for a name)*
 
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
