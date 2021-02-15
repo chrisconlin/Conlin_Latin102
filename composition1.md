@@ -12,8 +12,11 @@ quia: which, what
 rogo, rogare, rogavi, rogatus: ask, beg
 
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
+
 "When Hercules came to Oechalia, he asked to lead Iole as his wife."
+
 (pluperfect subjunctive as it is the same time)
+
 Cum: when 
 Hercules: Nom, sg 
 veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, imperfect, active, subjunctive (as it is occur at the same time as the independent). 
@@ -29,7 +32,9 @@ is, nom sing of he
 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
+
 "When the father of her, Eurytus, did not want the wedding, Hercules captured Oechalia."
+
 Cum: When 
 Pater: nom singular of father 
 eius: gen signular "of her"
@@ -45,7 +50,9 @@ Oechliam: accusative
 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
+
 Indirect statments require the verb of the head with the correct form of the infinite and the subject in the accusative
+
 "Hercules said that he will kill the parents of Lole"
 Hercules, Herculis m. - Hercules. Accusative is Herculem
 dīcō, dīcere, dīxī, dictus - to say, speak. Dixit 
@@ -57,7 +64,9 @@ Lolis: gentivie singular
 "Herculem dixit eum interficiet parentes Lolis."
 
 your fourth sentence should say that Iole endured that her parents, who are citiens of Oechalia, were killed.
+
 "Iole endured that her parents, who are citizes of Oechalia, were killed" 
+
 accusative singular for indirect statement: Iolen
 patior, pati, -, passus: endure, suffer;: ""patit""
 parentes: accusitve plural 
@@ -74,7 +83,9 @@ cīvis, cīvis, m./f. - citizen: accustive plural masculine cives
 
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
+
 "When Hercules killed all the parents, he sent Iole to Deianira." 
+
 Cum: When 
 Hercules: nom, sg. 
 interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. It is occuring before the event of the independent clause so we are going to go with the 3rd, singular, pluperfect, active, subjunctive: interfecisset
