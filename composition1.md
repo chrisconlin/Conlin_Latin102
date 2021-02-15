@@ -74,7 +74,10 @@ interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation
 omnis, omnne: all, every: omnes
 parentes: accustive plural
 mitto, mittĕre, misi, missus: to send: We need the 3rd person, singular, perfect, active, indicative. misit
-Iolen: accusative singular
+Lolen: accusative singular
 ad+acc: ad 
+Deianira, Deianirae, feminine: Accsuative, sing: Deianiram 
+
+"Cum Hercules interfecisset omnes parentes, misit Lolen ad Deianiram
 
 
