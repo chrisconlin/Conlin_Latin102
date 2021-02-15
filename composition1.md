@@ -12,17 +12,29 @@ quia: which, what
 rogo, rogare, rogavi, rogatus: ask, beg
 
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
-When Hercules came to Oechalia, he asked to marry Iole. 
+"When Hercules came to Oechalia, he asked to lead Iole as his wife."
 (pluperfect subjunctive as it is the same time)
 Cum: when 
 Hercules: Nom, sg 
-veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, pluperfect, active, subjunctive. venisset
+veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, imperfect, active, subjunctive (as it is occur at the same time as the independent). 
+veniret
 Oechaliam (accusative, sg)
 rogō, rogāre, rogāvī, rogātus - to ask. We need the 3rd person, singular, perfect, active, indicative. rogavit
-lolen (in accusative)
+Lolen (in accusative)
+uxorem: wife in accusative
+ducere: infinitive of to lead 
+is, nom sing of he
+
+"Cum Hercules veniret Oechaliam, is rogavit ducere Lolen uxorem."
 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
+"When the father of her, Eurytus, did not want the wedding, Hercules captured Oechalia."
+Cum: When 
+Pater: nom singular of father 
+eius: gen signular "of her"
+Eurytus: nom sg of the name 
+nolo, nolle, nolui, -  :not to want. We need the 3rd, singular, pluperfect, subjucntive for did not want (as it is occuring before the event in the independent clause): noluisset
 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
