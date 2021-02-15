@@ -74,7 +74,7 @@ Deianira, deianirae, feminine. The form presented is accustive singular. (It is 
 
 
 Identify the form abesset, and explain why it is this tense and mood.
-Third person, singular, imperfect, active, subjunctive. It is subjunctive because it is secondary sequence, referring to circumstance and not time, and same time relation of subordinate clause. ❌
+Third person, singular, imperfect, active, subjunctive. It is subjunctive and it is a part of a temporal clause relating to circumstance. The tense of the main clause is secondary sequence and the time relation to of subordinate clause is later (could be same time as well). ❌
 
 
 Identify the form uenisset, and explain why it is this tense and mood.
