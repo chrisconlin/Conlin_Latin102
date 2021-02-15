@@ -20,12 +20,12 @@ veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd pers
 veniret
 Oechaliam (accusative, sg)
 rogō, rogāre, rogāvī, rogātus - to ask. We need the 3rd person, singular, perfect, active, indicative. rogavit
-Lolen (in accusative)
+Iolen (in accusative)
 uxorem: wife in accusative
 ducere: infinitive of to lead 
 is, nom sing of he
 
-"Cum Hercules veniret Oechaliam, is rogavit ducere Lolen uxorem."
+"Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem."
 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
@@ -54,16 +54,23 @@ we need the 3rs, singular, future, active, indicative. interficiō, interficere,
 parēns, parentis m./f. - parent. We need the accusative plural with is parentes.
 Lolis: gentivie singular 
 
-"Herculem dixit eum interficiet parentes Lolis"
+"Herculem dixit eum interficiet parentes Lolis."
 
-your fourth sentence should say that Iole endured that her parents were killed.
-"Iole endured that her parents were killed" 
-accusative singular for indirect statement: Lolen
+your fourth sentence should say that Iole endured that her parents, who are citiens of Oechalia, were killed.
+"Iole endured that her parents, who are citizes of Oechalia, were killed" 
+accusative singular for indirect statement: Iolen
 patior, pati, -, passus: endure, suffer;: ""patit""
 parentes: accusitve plural 
 3rd person, plural, perfect, passive, indiciative: interfecti sunt 
+sunt: are 
+Oechaliae: genitive singular of Oechalia
+quos: masculine plural for "who"
+cīvis, cīvis, m./f. - citizen: accustive plural masculine cives
 
-"Lolen patit parentes interfecti sunt."
+
+
+
+"Iolen patit parentes, quos sunt cives Oechaliae, interfecti sunt."
 
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
@@ -74,10 +81,12 @@ interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation
 omnis, omnne: all, every: omnes
 parentes: accustive plural
 mitto, mittĕre, misi, missus: to send: We need the 3rd person, singular, perfect, active, indicative. misit
-Lolen: accusative singular
+Iolen: accusative singular
 ad+acc: ad 
 Deianira, Deianirae, feminine: Accsuative, sing: Deianiram 
 
-"Cum Hercules interfecisset omnes parentes, misit Lolen ad Deianiram
+"Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
+Composition: 
+Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem. Cum pater eius Eurytus noluisset nupitas, Hercules cepit Oechliam. Herculem dixit eum interficiet parentes Lolis. Iolen patit parentes, quos sunt cives Oechaliae, interfecti sunt. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
