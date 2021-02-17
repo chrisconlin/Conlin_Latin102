@@ -63,9 +63,9 @@ Lolis: gentivie singular
 
 "Hercules dixit se interficiet parentes Lolis."
 
-your fourth sentence should say that Iole endured that her parents, who are citiens of Oechalia, were killed.
+your fourth sentence should say that Iole endured that her parents, who were citiens of Oechalia, were killed.
 
-"Iole endured that her parents, who are citizes of Oechalia, were killed" 
+"Iole endured that her parents, who were citizes of Oechalia, were killed" 
 
 accusative singular for indirect statement: Iolen
 patior, pati, -, passa est: endure, suffer;: ""passa est""
