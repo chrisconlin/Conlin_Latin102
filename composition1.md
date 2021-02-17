@@ -33,20 +33,20 @@ is, nom sing of he
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
 
-"When the father of her, Eurytus, did not want the wedding, Hercules captured Oechalia."
+"When the father of her, Eurytus, was not willing, Hercules captured Oechalia."
 
 Cum: When 
 Pater: nom singular of father 
 eius: gen signular "of her"
 Eurytus: nom sg of the name 
-nolo, nolle, nolui, -  :not to want. We need the 3rd, singular, pluperfect, subjucntive for did not want (as it is occuring before the event in the independent clause): noluisset
+nolo, nolle, nolui, -  :not to want. We need the 3rd, singular, pluperfect, subjucntive for did not want (as it is occuring before the event in the independent clause): nollet 
 nuptiae, nuptiarum (f.): “marriage, wedding”. Accusative singular is nupitas (very unsual as the nom sg looks like a first declension gen sg). 
 Hercules: nom, sg. 
 capio, capĕre, cepi, captus: to take, seize. 3rd-io conjugation. (We need the 3rd, singular, perfect, active, indicative): cepit
 Oechliam: accusative 
 
 
-"Cum pater eius Eurytus noluisset nupitas, Hercules cepit Oechliam." 
+"Cum pater eius Eurytus nollet, Hercules cepit Oechliam." 
 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
@@ -54,32 +54,32 @@ Your third sentence should express that Hercules said that he would kill her par
 Indirect statments require the verb of the head with the correct form of the infinite and the subject in the accusative
 
 "Hercules said that he will kill the parents of Lole"
-Hercules, Herculis m. - Hercules. Accusative is Herculem
+Hercules, Herculis m. - Hercules. Hercules
 dīcō, dīcere, dīxī, dictus - to say, speak. Dixit 
-he in accusative: eum 
-we need the 3rs, singular, future, active, indicative. interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. interficiet
+he in accusative: se
+we need the 3rs, singular, future, active, infinitive. interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. interficiet
 parēns, parentis m./f. - parent. We need the accusative plural with is parentes.
 Lolis: gentivie singular 
 
-"Herculem dixit eum interficiet parentes Lolis."
+"Hercules dixit se interficiet parentes Lolis."
 
 your fourth sentence should say that Iole endured that her parents, who are citiens of Oechalia, were killed.
 
 "Iole endured that her parents, who are citizes of Oechalia, were killed" 
 
 accusative singular for indirect statement: Iolen
-patior, pati, -, passus: endure, suffer;: ""patit""
+patior, pati, -, passa est: endure, suffer;: ""passa est""
 parentes: accusitve plural 
-3rd person, plural, perfect, passive, indiciative: interfecti sunt 
-sunt: are 
+3rd person, plural, perfect, passive, infinitive: interfectos esse
+erant: were 
 Oechaliae: genitive singular of Oechalia
-quos: masculine plural for "who"
+qui: masculine plural for "who" nominitive pl 
 cīvis, cīvis, m./f. - citizen: accustive plural masculine cives
 
 
 
 
-"Iolen patit parentes, quos sunt cives Oechaliae, interfecti sunt."
+"Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse."
 
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
@@ -99,5 +99,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem. Cum pater eius Eurytus noluisset nupitas, Hercules cepit Oechliam. Herculem dixit eum interficiet parentes Lolis. Iolen patit parentes, quos sunt cives Oechaliae, interfecti sunt. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
