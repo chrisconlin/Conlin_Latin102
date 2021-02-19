@@ -13,7 +13,7 @@ rogo, rogare, rogavi, rogatus: ask, beg
 
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 
-"When Hercules came to Oechalia, he asked to lead Iole as his wife."
+"When Hercules came to Oechalia, he sought to lead Iole as his wife."
 
 (pluperfect subjunctive as it is the same time)
 
@@ -22,13 +22,13 @@ Hercules: Nom, sg
 veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, imperfect, active, subjunctive (as it is occur at the same time as the independent). 
 veniret
 Oechaliam (accusative, sg)
-rogō, rogāre, rogāvī, rogātus - to ask. We need the 3rd person, singular, perfect, active, indicative. rogavit
+peto, petĕre, petivi, petitus: to seek, attack. We need the 3rd person, singular, perfect, active, indicative. petivit
 Iolen (in accusative)
 uxorem: wife in accusative
 ducere: infinitive of to lead 
 is, nom sing of he
 
-"Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem."
+"Cum Hercules veniret Oechaliam, is petivit ducere Iolen uxorem."
 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
@@ -99,5 +99,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Cum Hercules veniret Oechaliam, is rogavit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Cum Hercules veniret Oechaliam, is petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
