@@ -87,9 +87,9 @@ identify the case of the Latin pronoun, and explain why it is in that case: We w
 
 In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 In Egypt, Hercules killed the priest Busiria, who regularly sacrificed foreigners. 
-translate the relative pronoun into Latin: qui
+translate the relative pronoun into Latin: quem
 identify the antecedent of the pronoun, and its gender and number: The antecedent of the pronoun if Busiria and it is masculine and singular. 
-identify the case of the Latin pronoun, and explain why it is in that case: We are using it as the nominitive case as it is being used as the subject of the relative clause. 
+identify the case of the Latin pronoun, and explain why it is in that case: We are using it as the accustive case as it is being used to refer to the direct object. 
 
 
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
