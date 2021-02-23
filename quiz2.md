@@ -33,7 +33,7 @@ third plural imperfect indicative passive:pollicebantur
 present infinitive passive: polliceri
 third plural imperfect subjunctive passive:pollicerentur
 third plural perfect indicative passive: polliciti sunt
-perfect active infinitive:
+perfect active infinitive: pollitctus esse
 third plural pluperfect subjunctive passive: polliciti essent
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
