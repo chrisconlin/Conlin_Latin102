@@ -57,11 +57,11 @@ Indirect statments require the verb of the head with the correct form of the inf
 Hercules, Herculis m. - Hercules. Hercules
 dīcō, dīcere, dīxī, dictus - to say, speak. Dixit 
 he in accusative: se
-we need the 3rs, singular, future, active, infinitive. interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. interficiet
+we need the 3rd, singular, future, active, infinitive. interficiō, interficere, interfēcī, interfectus - to kill. 3rd-io conjugation. interfecturum esse
 parēns, parentis m./f. - parent. We need the accusative plural with is parentes.
 Lolis: gentivie singular 
 
-"Hercules dixit se interficiet parentes Lolis."
+"Hercules dixit se interfecturm esse parentes Lolis."
 
 your fourth sentence should say that Iole endured that her parents, who were citiens of Oechalia, were killed.
 
@@ -99,5 +99,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interfecturm esse parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
