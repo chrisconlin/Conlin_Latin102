@@ -51,15 +51,15 @@ you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-The brothers were violent Centaurs, who came to the wedding with Eurytion.
-translate the relative pronoun into Latin: qui
+The brothers were violent Centaurs who came to the wedding with Eurytion.
+translate the relative pronoun into Latin: quos
 identify the antecedent of the pronoun, and its gender and number: Centaurs (masculine, plural)
-identify the case of the Latin pronoun, and explain why it is in that case: we need the nominitive case as it is serves as the subject of the relative clause. 
+identify the case of the Latin pronoun, and explain why it is in that case: we need the accusative case as it is referring to the Centaurs which is the direct object. 
 
 
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 Dexamenus was afraid of Eurytion, by whom Deanira was promised in marriage to. 
-translate the relative pronoun into Latin: quo
+translate the relative pronoun into Latin: [(a/ab)] + quo
 identify the antecedent of the pronoun, and its gender and number: Eurytion is the antecedent and it is masculine and singular. 
 identify the case of the Latin pronoun, and explain why it is in that case: we are using the ablative because here we are using it as an ablative of agent construction. 
 
@@ -94,9 +94,9 @@ identify the case of the Latin pronoun, and explain why it is in that case: We a
 
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
 Prometheus' heart was devoured by an eagle, who was shot by Hercules with his arrows. 
-translate the relative pronoun into Latin: quae
+translate the relative pronoun into Latin: quam
 identify the antecedent of the pronoun, and its gender and number: The antecedent is eagle and it is singular and feminine
-identify the case of the Latin pronoun, and explain why it is in that case: We will also use the nominitive case as it is being used as the subject of the relative clause. 
+identify the case of the Latin pronoun, and explain why it is in that case: We will also use the accusative case as it is referring to the eagle which the direct object. 
 
 
 Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
