@@ -19,8 +19,8 @@ Your first sentence should use a temporal clause to express that when Hercules c
 
 Cum: when 
 Hercules: Nom, sg 
-veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, imperfect, active, subjunctive (as it is occur at the same time as the independent). 
-veniret
+veniō, venīre, vēnī, ventus - to come. 4th conjugation. We need the 3rd person, singular, pluperfect, active, subjunctive (as it is occur at the same time as the independent). 
+venisset
 Oechaliam (accusative, sg)
 peto, petĕre, petivi, petitus: to seek, attack. We need the 3rd person, singular, perfect, active, indicative. petivit
 Iolen (in accusative)
@@ -28,7 +28,7 @@ uxorem: wife in accusative
 ducere: infinitive of to lead 
 is, nom sing of he
 
-"Cum Hercules veniret Oechaliam, is petivit ducere Iolen uxorem."
+"Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem."
 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
@@ -99,5 +99,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Cum Hercules veniret Oechaliam, is petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interficiet parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
