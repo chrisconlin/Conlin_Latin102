@@ -39,6 +39,29 @@ Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
 but not amo, habeo, capio or duco
 
+video, videre, vidi, visus- to see (2nd conjugation)
+
+third plural present indicative active: vident (they see)
+third plural present subjunctive active: videant
+third plural imperfect indicative active: videbant (they were seeing)
+present infinitive active: videre (to see)
+third plural imperfect subjunctive active: viderent
+third plural perfect indicative active: viderunt (they saw)
+perfect active infinitive: vidisse (to have seen)
+third plural pluperfect subjunctive active: vidissent
+
+rego, regere, rexi, rectus -to rule (3rd conjugation)
+
+third plural present indicative active: regunt (they rule)
+third plural present subjunctive active: regant 
+third plural imperfect indicative active: regebant (they were ruling)
+present infinitive active: regere (to rule)
+third plural imperfect subjunctive active: regerent
+third plural perfect indicative active: rexerunt (they ruled)
+perfect active infinitive: rexisse (to have ruled)
+third plural pluperfect subjunctive active: rexissent
+
+
 English relative clauses
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
 
