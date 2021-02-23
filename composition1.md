@@ -79,7 +79,7 @@ cīvis, cīvis, m./f. - citizen: accustive plural masculine cives
 
 
 
-"Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse."
+"Iole passa est parentes, qui erant cives Oechaliae, interfectos esse."
 
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
@@ -99,5 +99,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interfecturm esse parentes Lolis. Iolen passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechliam." Hercules dixit se interfecturm esse parentes Lolis. Iole passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
