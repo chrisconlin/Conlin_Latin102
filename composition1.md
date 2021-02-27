@@ -102,5 +102,5 @@ Deianira, Deianirae, feminine: Accsuative, sing: Deianiram
 "Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram."
 
 Composition: 
-Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechaliam." Hercules dixit se interfecturm❌ esse parentes Lolis. Iole passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
+Hercules Cum venisset Oechaliam, petivit ducere Iolen uxorem. Cum pater eius Eurytus nollet, Hercules cepit Oechaliam." Hercules dixit se interfecturum❌ esse parentes Lolis. Iole passa est parentes, qui erant cives Oechaliae, interfectos esse. Cum Hercules interfecisset omnes parentes, misit Iolen ad Deianiram.
 
