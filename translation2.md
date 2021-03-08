@@ -39,6 +39,7 @@ ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim haber
 
 ille
 > moriens,
+
 > cum sciret
 > > sagittas Hydrae Lernaeae
 
