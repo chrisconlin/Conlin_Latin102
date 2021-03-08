@@ -37,15 +37,38 @@ Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat trans
 ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
 
 
+Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.
+
+Deianira
+
+> uxor Herculis
+
+flumen magnum 
+
+>> cui nomen Evenus erat
+
+non *poterat* transire 
+
+et centaurum Nessum, 
+
+>qui filius Ixionis et Nubis erat
+
+auxilium *rogavit*
+
+"Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help."
+
+
+
+
 ille
 > moriens,
 
-> cum sciret
+> cum *sciret*
 > > sagittas Hydrae Lernaeae
 
-> > > felle tinctas
+> > > felle *tinctas*
 
-> > magnam vim habere,
+> > magnam vim *habere*,
 
 sanguinem suum
 > exceptum
@@ -65,6 +88,9 @@ dixit
 
 B. Grammatical questions
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
+Cui is a relative pronoun (who, which, that) and the antecendent is magnum which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. 
+
+
 Submitting your work
 In your github repository, create a file named translation2.md.
 
