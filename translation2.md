@@ -59,6 +59,16 @@ auxilium *rogavit*
 
 
 
+Hic Deianiram sublatam 
+
+> in flumine ipso 
+
+uiolare uoluit.
+
+"As this centaur was carrying Deianira he wanted to rape her in the very river itself" 
+
+
+
 
 ille
 > moriens,
