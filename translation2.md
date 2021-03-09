@@ -39,11 +39,7 @@ ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim haber
 
 Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.
 
-Deianira
-
-> uxor Herculis
-
-flumen magnum 
+Deianira uxor Herculis flumen magnum 
 
 >> cui nomen Evenus erat
 
@@ -55,27 +51,27 @@ et centaurum Nessum,
 
 auxilium *rogavit*
 
-"Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help."
+"Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help."
 
 
 
-Hic Deianiram sublatam 
+Hic Deianiram 
 
-> in flumine ipso 
+> sublatam in flumine ipso 
 
 uiolare uoluit.
 
-"As this centaur was carrying Deianira he wanted to rape her in the very river itself." 
-
+"After she had been carried up in the river itself he wanted to rape her."
+ 
 
 
 huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
-> huc
 
-Hercules cum interuenisset
 
-> > et Deianira cum fidem eius implorasset
+> huc Hercules cum interuenisset
+
+> et Deianira cum fidem eius implorasset
 
 Nessum sagittis confixit
 
@@ -110,7 +106,7 @@ dixit
 
 
 Translation: 
-Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help. As this centaur was carrying Deianira he wanted to rape her in the very river itself. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
+Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help. After she had been carried up in the river itself he wanted to rape her.. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
 As he died, when he knew that the great potent arrows of the Hydra Lerna have been soaked in posinous liquid, he removed his own blood and gave it to Deianira and said that it was a love potion.
 
