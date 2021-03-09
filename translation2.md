@@ -105,7 +105,7 @@ dixit
 
 
 Translation: 
-Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help. After she had been carried up in the river itself he wanted to rape her.. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
+Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. After she had been carried up in the river itself he wanted to rape her. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
 As he was dying, when he knew that the great potent arrows of the Hydra Lerna have been soaked in posinous liquid, he removed his own blood and gave it to Deianira and said that it was a love potion.
 
