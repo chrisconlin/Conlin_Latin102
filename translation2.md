@@ -65,7 +65,22 @@ Hic Deianiram sublatam
 
 uiolare uoluit.
 
-"As this centaur was carrying Deianira he wanted to rape her in the very river itself" 
+"As this centaur was carrying Deianira he wanted to rape her in the very river itself." 
+
+
+
+huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+
+> huc
+
+Hercules cum interuenisset
+
+> > et Deianira cum fidem eius implorasset
+
+Nessum sagittis confixit
+
+
+"When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows."
 
 
 
@@ -91,10 +106,13 @@ et
 
 dixit
 
+"As he died, when he knew that the great potent arrows of the Hydra Lerna have been soaked in posinous liquid, he removed his own blood and gave it to Deianira and said that it was a love potion." 
 
 
+Translation: 
+Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help. As this centaur was carrying Deianira he wanted to rape her in the very river itself. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
-
+As he died, when he knew that the great potent arrows of the Hydra Lerna have been soaked in posinous liquid, he removed his own blood and gave it to Deianira and said that it was a love potion.
 
 B. Grammatical questions
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
