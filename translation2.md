@@ -110,8 +110,57 @@ Deianira, the wife of Hercules, could not cross the great river, which was named
 "As he was dying, when he knew that the arrows had great potency because they had been soaked in posinous liquid of the Hydra Lerna, he gave his own blood to Deiaira after it has been removed and he said that it was a love potion." 
 
 B. Grammatical questions
+
+
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 Cui is a relative pronoun (who, which, that) and the antecendent is magnum which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. Also it can be possessive to (it's name was).  
+
+
+
+Identify the form of transire. Explain why you placed it in the clause you chose.
+Transire is the present active infinitive of transeo. We are using it in a direct statement "she could not cross." It is also the second principle part of transeo, making it easy to determine that it is the present activitve infinitive. 
+
+
+
+sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
+The dictionary entry that it comes from is ferō, ferre, tulī, lātus - to bear, carry, bring. It is clearly coming from the 4th principle part, which helps us see that it is the perfect passive particple and it is matching Deianira so that is is accustive and feminine. urn:markdown:n17964
+
+
+
+Identify the form of sagittis. Why does Hyginus use this case?
+
+Sagittis is dative,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows"). 
+
+
+
+Identify the form of moriens.
+
+Moriens is the present active participle of morior. 
+
+
+
+Identify felle. Why does Hyginus use this case?
+
+Felle is neuter and ablative. Hyginus wants to use the ablative because it is the do it all case. The arrows were soaked "in posonous liquid."
+
+
+
+
+Identify the form of tinctas.
+
+Tinctas is the accusitive plural pefect passsive particple. 
+
+
+
+Identify the form of exceptum.
+
+accustive singular perfect passive particple. 
+
+
+
+William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+
+Moriens
 
 
 Submitting your work
