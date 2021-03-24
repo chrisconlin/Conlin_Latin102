@@ -35,7 +35,7 @@ third plural imperfect indicative passive:pollicebantur
 present infinitive passive: polliceri
 third plural imperfect subjunctive passive:pollicerentur
 third plural perfect indicative passive: polliciti sunt
-perfect passive infinitive: pollitctum esse❌
+perfect passive infinitive: pollicitum esse❌ REVISED
 third plural pluperfect subjunctive passive: polliciti essent
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
@@ -76,7 +76,7 @@ you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-The brothers were violent Centaurs with whom Eurytion came who came to the wedding ❌with❌. REVISED: Just get rid of with: " The brothers were violent Centaurs with whom Eurytion came who came to the wedding"
+The brothers, with whom Eurytion came to the wedding, were violent Centaurs. ❌with❌. REVISED
 translate the relative pronoun into Latin: cum + quibus 
 identify the antecedent of the pronoun, and its gender and number: Centaurs (masculine, plural)
 identify the case of the Latin pronoun, and explain why it is in that case: we need the ablative case to go with cum. 
