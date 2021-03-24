@@ -35,7 +35,7 @@ third plural imperfect indicative passive:pollicebantur
 present infinitive passive: polliceri
 third plural imperfect subjunctive passive:pollicerentur
 third plural perfect indicative passive: polliciti sunt
-perfect active infinitive: pollitctum esse❌
+perfect passive infinitive: pollitctum esse❌
 third plural pluperfect subjunctive passive: polliciti essent
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
@@ -103,7 +103,7 @@ identify the antecedent of the pronoun, and its gender and number: Nessus is the
 identify the case of the Latin pronoun, and explain why it is in that case: We need the accustive as it is reffering to the direct object (Nessus). 
 
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-Nessus gave Deianira a vial of blood, by which Hercules was poisoned.❌**Not yet English.** 
+Nessus gave Deianira a vial of blood, by which Hercules was poisoned.❌**Not yet English.** REVISED
 translate the relative pronoun into Latin: (a/ab) + qu0
 identify the antecedent of the pronoun, and its gender and number: The antecedent of the pronoun is blood which is masculine and singular. 
 identify the case of the Latin pronoun, and explain why it is in that case: We will use the ablative as it is by which (ablative of agent). 
