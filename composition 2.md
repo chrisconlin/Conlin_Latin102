@@ -39,6 +39,20 @@ Putting it all togethter for the first sentence we have: "Cum Deinira, filia Oen
 
 
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
+"Deinira sent her servant for the purpose of bringing Herclues a garment that was dipped in the blood of the centaur Nessus, which she thought was a love potion."
+
+"Deinira." mittō, mittere, mīsī, missus - to send. We need the 3rd person, perfect, active indicative which is "misit." We need the accusative singular form of famulus, famuli (m.) “servant” which is "famulum." So for the beginning part of this independent clause we have "Deinira misit famulum." We are going to use a Gerund-Replacing Gerundives (GRGs) for this next part of the sentence "For the purpose of bringing Hercules a garment." In order to do this we will construct it using "ad" + the gerund. When translating GRGs, the gerundive is translated just like a gerund and the noun that agrees with it as its a direct object. So to bring is ferō, ferre, tulī, lātus. The gerundive matching in the accustive is "ferendum." We need the ccustive forms for Herculies and Germanet which is "Herculem" and "vestimentum." So, our statment so far is "Deinira misit famulum ad ferendum Herculem vestimentum." 
+
+We then will work on the indirect statement "that was cleaned in the blood of the centaur Nessus." We need the perfect active infinitive of to clean "mundo, mundas, mundavi, mundatum. (NOTE: I am using to clean instead of to dip because I could not find the gloss for "to dip". So, the perfect activie infinitive is "mundavisse." We then will us in + acc of blood (sanguinem) and the genitive of both centaur and Nessus which is "centauri" and "Nessi." So, this is the indiret statment: "mundavisse in sanguinem centauri Nessi." 
+
+So far we have "Deinira misit famulum ad ferendum Herculem vestimentum mundavisse in sanguinem centauri Nessi" 
+
+For the last part we need to translate, "which she thought was a love potion." 
+
+
+
+
+
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
