@@ -47,14 +47,25 @@ We then will work on the indirect statement "that was cleaned in the blood of th
 
 So far we have "Deinira misit famulum ad ferendum Herculem vestimentum mundavisse in sanguinem centauri Nessi" 
 
-For the last part we need to translate, "which she thought was a love potion." 
+For the last part we need to translate, "which she thought was a love potion." For the relative clause we will use "quam" because it is referring to the garment which is the direct object in the sentence. putō, putāre, putāvī, putātus - to think. We will go with the pluperfect subjunctive because she previosuly thought that it was a love potion before she decided to send the servant. That being said the 3rd person, singular, pluperfect, active, subjunctive is "putaverit." Love potion is philtrum, i (n): “love potion”. So the accustive is philtrum. so it is "quam putaverit philtrum." 
+
+The second sentence translates to: "Deinira misit famulum ad ferendum Herculem vestimentum mundavisse in sanguinem centauri Nessi, quam putaverit philtrum." 
+
+
+
 
 
 
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
+"Hercules put the garment on and it immediately bursted into flames." induo, induĕre, indui, indutum “put on an article of dress or ornament”. "We will use the 3rd person, perfect, active indicative which is just "induit." We need the accustive of garment which is "vestimentum." So, it is "Hercules induit vestimentum." "Et" for and. "Statim" is the adverb for immediately. (((((I would like to use a participle to make it "which immediately bursted into flames.")))) In + acc can be into flames. in + flammo, flammare, flammavi, flammatus “flame, burn” becomes?????"
+
+
+
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
+For this sentence, the independent clause is just "Hercules threw the slave into the sea." "Hercules." iaciō, iacere, iēcī, iactus - to throw, hurl. The 3rd person, singular, perfect, activive, indiciative is iecit. The accusative direct object is the slave or servant which is "famulum." In + acc of mare, maris, n. - sea is "in maren". So it is "Hercules iecit fumulum in maren." To add the subordinate clause, 
+
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 Vocabulary
 In addition to your required vocabulary, consult the vocabulary notes from previous translation and composition assignments on this subject.
