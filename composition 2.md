@@ -15,8 +15,11 @@ Your first sentence should use a negative purpose clause to say that when Deiani
 "When Deinira, the daughter of Oeneus and the wife of Hercules, saw that the beautiful young girl Iole, had been brought (to her house), she began to devide a plot in order not to lose her husband (or "be deprived of her husband). 
 
 -When Denira saw 
+
 --that Iole had been brought
+
 She began to devise a plan
+
 -in order not to lose her husband
 
 
