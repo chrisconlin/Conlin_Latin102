@@ -64,7 +64,9 @@ Your third sentence should say that Hercules put the garment on and it immediate
 
 
 Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
-For this sentence, the independent clause is just "Hercules threw the slave into the sea." "Hercules." iaciō, iacere, iēcī, iactus - to throw, hurl. The 3rd person, singular, perfect, activive, indiciative is iecit. The accusative direct object is the slave or servant which is "famulum." In + acc of mare, maris, n. - sea is "in maren". So it is "Hercules iecit fumulum in maren." To add the subordinate clause, 
+For this sentence, the independent clause is just "Hercules threw the slave into the sea." "Hercules." iaciō, iacere, iēcī, iactus - to throw, hurl. The 3rd person, singular, perfect, activive, indiciative is iecit. The accusative direct object is the slave or servant which is "famulum." In + acc of mare, maris, n. - sea is "in maren". So it is "Hercules iecit fumulum in maren." To add the subordinate clause, we will use "quem" as the relative clause because it is referring to the anecent which is the servant which is the accusative direct object. "Deianira" is the nominaitve subject. mittō, mittere, mīsī, missus - to send. Perfect active indivcative third person singular is "misit." We need the present active infinitive of ferō, ferre, tulī, lātus - to bear, carry, bring which is "ferre". Once again, we need garment in the accusative which is "vestimentum."
+
+So, this fourth sentence translates to: "Hercules iecit famulum, quem Deianira misit ferre vestimentum, in maren."
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 Vocabulary
