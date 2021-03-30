@@ -41,22 +41,22 @@ Putting it all togethter for the first sentence we have: "Cum Deianira, filia Oe
 Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
 "Deianira sent her servant for the purpose of bringing the garment to Hercules that was dipped in the blood of the centaur Nessus, which she thought was a love potion."
 
-"Deinira." mittō, mittere, mīsī, missus - to send. We need the 3rd person, perfect, active indicative which is "misit." We need the accusative singular form of famulus, famuli (m.) “servant” which is "famulum." So for the beginning part of this independent clause we have "Deinira misit famulum." Ut clause and we will use the imperfect subjunctive as it is secondary sequence. So to bring is ferō, ferre, tulī, lātus. The gerundive matching in the accustive is "ferendum." We need the dative forms for Herculies and accusative for garment which is "Herculi" and "vestimentum."
+"Deianira." mittō, mittere, mīsī, missus - to send. We need the 3rd person, perfect, active indicative which is "misit." We need the accusative singular form of famulus, famuli (m.) “servant” which is "famulum." So for the beginning part of this independent clause we have "Deinira misit famulum." Ut clause and we will use the imperfect subjunctive as it is secondary sequence. So to bring is ferō, ferre, tulī, lātus.  We need the dative forms for Herculies and accusative for garment which is "Herculi" and "vestimentum."
 
 We then will work on the indirect statement "that was cleaned in the blood of the centaur Nessus." We need the perfect active infinitive of to soak "tingo, tingĕre, tinxi, tinctus. We need the neuter accsative singular: tinctum (perfect passive particple) We then will use abaltive of blood (sanguinem) for abaltive of instrument and the genitive of both centaur and Nessus which is "centauri" and "Nessi." 
 
 So far we have "Deianira misit famulum ut Herculi vestimentum ferret tinctum sanguine centauri Nessi" 
 
-For the last part we need to translate, "which she thought was a love potion." For the relative clause we will use "quem" because it is referring to the blood which is the direct object in the sentence. putō, putāre, putāvī, putātus - to think. We will go with the pluperfect subjunctive because she previosuly thought that it was a love potion before she decided to send the servant. That being said the 3rd person, singular, imperfect, active, indicative. Love potion is philtrum, i (n): “love potion”. So the accustive is philtrum. We need esse to finish the indirect statment.  so it is "quem putabat philtrum esse." 
+For the last part we need to translate, "which she thought was a love potion." For the relative clause we will use "quem" because it is referring to the blood which is the indirect object in the sentence. putō, putāre, putāvī, putātus - to think. We will go with the pluperfect subjunctive because she previosuly thought that it was a love potion before she decided to send the servant. That being said the 3rd person, singular, imperfect, active, indicative. Love potion is philtrum, i (n): “love potion”. So the accustive is philtrum. We need esse to finish the indirect statment.  so it is "quem putabat philtrum esse." 
 
-The second sentence translates to: "Deinira misit famulum ad ferendum Herculem vestimentum mundavisse in sanguinem centauri Nessi, quem putabat philtrum esse." 
+The second sentence translates to: "Deianira misit famulum ut Herculi vestimentum ferret tinctum sanguine centauri Nessi quem putabat philtrum esse." 
 
 
 
 
 
 Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
-"Hercules put the garment on and it immediately bursted into flames."  “put on an article of dress or ornament”. "We will use the 3rd person, perfect, active indicative which is just "induit." We need the accustive of garment which is "vestimentum." So, it is "Hercules vestimentum induit ." "Et" for and. "Statim" is the adverb for immediately. We are using the perfect passive particple in a situation of time as it is earlier than the main verb. 
+"The garment immediately burst into flames which Hercules put on."   We need the accustive of garment which is "vestimentum."  "Et" for and. "Statim" is the adverb for immediately. We are using the perfect passive particple in a situation of time as it is earlier than the main verb (indutum). Hercules needs to be an ablative agent, which is ab Hercule. Can use the thirs person, perfect activive, idicative which is flammavit.
 
 Perfect activitve indicative of fflammo, flammare, flammavi, flammatus. "Vestimentum ab Herclue indutum statim flammavit." 
 
