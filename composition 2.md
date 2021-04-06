@@ -72,7 +72,7 @@ So, this fourth sentence translates to: "Hercules iecit famulum, quem Deianira m
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-(ut clause)?????
+"Hercules fuit deum, sed Deianira interfecit se ne factum ferret."
 
 Vocabulary
 In addition to your required vocabulary, consult the vocabulary notes from previous translation and composition assignments on this subject.
