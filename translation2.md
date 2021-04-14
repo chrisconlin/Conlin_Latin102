@@ -112,7 +112,7 @@ dixit
 Translation: 
 Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, 
 
-and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. ❓ **Not yet English** REVISED: "was asked for help."
+and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. ❓ **Not yet English** REVISED: two sentences. Deianira, the wife of Hercules, could not cross the great river, which was named Evenus. She asked the CentaurNessus for help, who was was the son of Ixion and Nubes." 
 
 After she had been carried up in the river itself he wanted to rape her. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
