@@ -112,7 +112,7 @@ dixit
 Translation: 
 Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, 
 
-and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. ❓ **Not yet English**
+and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. ❓ **Not yet English** REVISED: "was asked for help."
 
 After she had been carried up in the river itself he wanted to rape her. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
@@ -122,7 +122,7 @@ B. Grammatical questions
 
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-Cui is a relative pronoun (who, which, that) and the antecendent is magnum❌ which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. Also it can be possessive✔️ to (it's name was).  
+Cui is a relative pronoun (who, which, that) and the antecendent is magnum❌ which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. Also it can be possessive✔️ to (it's name was).  REVISED: the antecedent is "flumen" and it is being used as a possessive to show what the rivers name was (i.e. it's (referring to the river) name was). 
 
 
 
@@ -138,13 +138,13 @@ The dictionary entry that it comes from is ferō, ferre, tulī, lātus - to bear
 
 Identify the form of sagittis. Why does Hyginus use this case?
 
-Sagittis is dative❌,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows"). 
+Sagittis is dative❌,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows").  REVISIONS: It is ablative and Hyginus is using it to denote the agent as being "with the arrows." 
 
 
 
 Identify the form of moriens.
 
-Moriens is the present active participle of morior. **Gender, case?** ❌
+Moriens is the present active participle of morior. **Gender, case?** ❌. REVISONS: nominative and masculine. 
 
 
 
@@ -157,13 +157,13 @@ Felle is neuter and ablative. Hyginus wants to use the ablative because it is th
 
 Identify the form of tinctas.
 
-Tinctas is the accusative plural pefect passsive particple. **Gender?** ❌
+Tinctas is the accusative plural pefect passsive particple. **Gender?** ❌ REVISIONS: feminine
 
 
 
 Identify the form of exceptum.
 
-accustive singular perfect passive particple. **Gender?** ❌
+accustive singular perfect passive particple. **Gender?** ❌ REVISIONS: masculine 
 
 
 
