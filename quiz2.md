@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 Quiz 2
 Verb synopses
