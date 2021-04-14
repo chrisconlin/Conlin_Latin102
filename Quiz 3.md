@@ -93,12 +93,26 @@ Dictionary skills, 3: proper nouns and adjectives
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 Luna (nominative)
+>Luna, lunae.f (Luna)
+
 Minerva (nominative)
+>Minerva, Minervae f. (Minerva)
+
 in Phrygia
+>Phrygia, Phrygiae f. Phyrgia
+
 ex Creta
+>Crete, Cretis f. Crete
+
 Thraciae rex
+>Thracia, Thraciae f. (Thracia)
+
 cum Abdero
+>Abdēra, Orum, n. (Abdera the slave)
+
 Eurystheo regi
+>Eurystheus, Eurysthei (m) (Eurystheus)
+
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum
