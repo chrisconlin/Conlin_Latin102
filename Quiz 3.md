@@ -144,19 +144,28 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 
 The Hydra killed passers by with a great blowing of his poisonous breath.
 > a afflato magno
+
 The Hydra killed passers by with a greater blowing of his poisonous breath.
 >a afflato maior
+
 The Hydra killed passers by with the greatest blowing of his poisonous breath.
 >a afflato maximus
+
 The victims died in great torment.
 >in cruciato magno
+
 The victims died in greater torment.
 >in cruciato maior
+
 The victims died in the greatest torment.
 >in cruciato maximus
+
 Hercules cleaned a great part of the stables.
 >partem magnam
+
 Hercules cleaned a greater part of the stables.
 >partem maior
+
 Hercules cleaned the greatest part of the stables.
 >partem maximus
+
