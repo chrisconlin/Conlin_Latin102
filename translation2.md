@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation 2: Nessus and Deianira
 Concepts to review
 relative clauses
@@ -85,12 +87,15 @@ ille
 > moriens,
 
 > cum *sciret*
+
 > > sagittas 
+
 > > > Hydrae Lernaeae felle *tinctas*
 
 > > magnam vim *habere*,
 
 sanguinem suum
+
 > exceptum
 
 Deianirae dedit 
@@ -105,7 +110,11 @@ dixit
 
 
 Translation: 
-Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. After she had been carried up in the river itself he wanted to rape her. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
+Deianira, the wife of Hercules, could not cross the great river, which was named Evenus, 
+
+and the centaur Nessus, who was the son of Ixion and Nubes, she asked him for help. ❓ **Not yet English**
+
+After she had been carried up in the river itself he wanted to rape her. When Hercules came to this place and when Deianira implored his help, he pierced Nessus with his arrows.
 
 "As he was dying, when he knew that the arrows had great potency because they had been soaked in posinous liquid of the Hydra Lerna, he gave his own blood to Deiaira after it has been removed and he said that it was a love potion." 
 
@@ -113,7 +122,7 @@ B. Grammatical questions
 
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-Cui is a relative pronoun (who, which, that) and the antecendent is magnum which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. Also it can be possessive to (it's name was).  
+Cui is a relative pronoun (who, which, that) and the antecendent is magnum❌ which is neuter and singlular. Cui matches the antecedent in gender and number but it is used with the dative case as it is serving as the "winner/losers" case. Also it can be possessive✔️ to (it's name was).  
 
 
 
@@ -129,32 +138,32 @@ The dictionary entry that it comes from is ferō, ferre, tulī, lātus - to bear
 
 Identify the form of sagittis. Why does Hyginus use this case?
 
-Sagittis is dative,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows"). 
+Sagittis is dative❌,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows"). 
 
 
 
 Identify the form of moriens.
 
-Moriens is the present active participle of morior. 
+Moriens is the present active participle of morior. **Gender, case?** ❌
 
 
 
 Identify felle. Why does Hyginus use this case?
 
-Felle is neuter and ablative. Hyginus wants to use the ablative because it is the do it all case. The arrows were soaked "in posonous liquid."
+Felle is neuter and ablative. Hyginus wants to use the ablative because it is the do it all case. The arrows were soaked "in poisonous liquid." 
 
 
 
 
 Identify the form of tinctas.
 
-Tinctas is the accusitive plural pefect passsive particple. 
+Tinctas is the accusative plural pefect passsive particple. **Gender?** ❌
 
 
 
 Identify the form of exceptum.
 
-accustive singular perfect passive particple. 
+accustive singular perfect passive particple. **Gender?** ❌
 
 
 
