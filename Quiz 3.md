@@ -21,10 +21,10 @@ uno die
 
 totum stercus
 >totus, Tota, Totum "whole, entire"
->stercus, ŏris, n. "odor"
+>stercus, ŏris, n. "shit"
 
 ceruum ferocem
-> cērĭum, ii, n. "bad spices"
+> cervus, cervi, n. "bad spices"
 > Ferox, Ferocis "fierce"
 
 tantam vim
@@ -33,14 +33,14 @@ tantam vim
 
 sagittas suas
 >sagitta, ae, f: "arrow"
->suus, a, um "upwards"
+>suus, a, um "reflexive possessive"
 
 cornibus aureis
 >cornu, us. n. "horn"
 >aureus, a, um "adjective for gold"
 
 carne humana
->carnero, carneronis (m)
+>caro, carnis (f) "flesh"
 >humanus, a, um "human" (i.e human flesh"
 
 draconem immanem
@@ -62,10 +62,10 @@ afflabat
 >afflo, afflare, afflavi, afflatus
 
 moriebatur
->morior, moreris, - , mortuus sum
+>morior, mori, - , mortuus sum
 
 exinteravit
-> exinteras, exinteravi, exinteratum, exinterāre
+> exintero, exinterare, exinteravi, exinteratum, 
 
 effugiebat
 >ex+fugi
@@ -75,10 +75,10 @@ adduxit
 > adduco, adducere, adduxi, adductus (to lead)
 
 iaculabantur
->iaculor, iaculārī, iaculātum (to throw)
+>iaculor, iaculārī,-, iaculātum (to throw)
 
 vescebantur
->vescor, vesceris, vesci (to take food)
+>vescor, vesci,-, ? (to take food)
 
 detraxit
 >detraho, detrahere, detraxi, detractum (to draw)
@@ -102,13 +102,13 @@ in Phrygia
 >Phrygia, Phrygiae f. Phyrgia
 
 ex Creta
->Crete, Cretis f. Crete
+>Creta, Cretae f. Crete
 
 Thraciae rex
 >Thracia, Thraciae f. (Thracia)
 
 cum Abdero
->Abdēra, Orum, n. (Abdera the slave)
+>Abdērus, abderi, masc. (Abdera the slave)
 
 Eurystheo regi
 >Eurystheus, Eurysthei (m) (Eurystheus)
