@@ -138,7 +138,7 @@ The dictionary entry that it comes from is ferō, ferre, tulī, lātus - to bear
 
 Identify the form of sagittis. Why does Hyginus use this case?
 
-Sagittis is dative❌,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows").  REVISIONS: It is ablative and Hyginus is using it to denote the agent as being "with the arrows." 
+Sagittis is dative❌,plural, and feminine and Hyginus wants to use the dative case because it is a way to express possesion with the dative (i.e "with the arrows").  REVISIONS: It is ablative and Hyginus is using it as abalative of means to show that "with the arrows." 
 
 
 
