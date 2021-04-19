@@ -22,23 +22,24 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
 
-stercus bobile uno die "purgavit"
 
->>Augeae regis
+Augeae regis stercus bobile uno die "purgavit", 
 
-Iove adiutore
+maiorem partem
 
->>maiorem partem
+>>love adiutore;
 
->>>flumine admisso
+>>flumine admisso
 
-totum stercus abluit
+totum stercus "abluit"
+
+
 
 Augeae: Genitive singular "of Augeas" 
 regis: rex, regis:m. king, genitive singular "of the king"
 stercus, stercoris (n), "dung, manure". nom singular or accusative singular. In this context, it is the accusative
 bobile, bobilis (n), "stall", 
-uno die: "on one day"
+uno die: "on one day" ablative (no conjunction)
 purgavit: "third person, singualr, perfect, activie indicative or purgo. to clean
 maiorem accustive, irregular comparative 
 partem: accusative singular of pars
@@ -51,10 +52,69 @@ stercus: accustive singular of dung
 abluit: 3rd person, singular, perfect, active, indicative of abluo "to wash off"
 
 
-"He cleaned the stall dung of the king Augeas in one day, while Jupiter was his helper for the most part; by letting in a river he washed away all of the dung." 
+"He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; by letting in a river he washed away all of the dung." 
 
 
 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
+
+taurum
+
+>>cum quo Pasiphae "concubuit"
+
+ex Creta insula Mycenis vivum "adduxit".
+
+taurum: accusative singular of taurus "a bull"
+cum: when 
+quo: which
+Pasiphae
+concubuit: 3rd person, singular, perfect, active, indicative of concubeo
+ex Creta: From Crete
+insula: nomintive singular of island 
+Mycenis: dative or ablative of Mycenae
+vivum: that which is alive
+adduxit: 3rd person, singular, perfect, active, indicative of adduco: to bring 
+
+"He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis"
+
+
+
+Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+
+Diomedem
+
+>>Thraciae regem
+
+et equos quattuor eius
+
+>>qui carne humana "vescebantur"
+
+cum Abdero famulo "interfecit"
+
+>>equorum autem nomina Podargus Lampon Xanthus Dinus
+
+
+
+Diomedem: accusative of Diomedes
+Thraciae: Genitive
+regem: accusative singular of king
+et: and
+equos: accusative plural of horse 
+quattuor (indeclinable adj.), “four” 
+qui: which
+caro, carnis (f), “flesh, meat”: carne is abaltive singular 
+humana: ablative singular 
+vescebantur: third person, plural, imperfect, active, indicative of vescor: to feed
+cum: when
+Abdero: Dative or Ablative of Abderus
+famulo: dative or ablative of famulus: servant
+interfecit: 3rd person, sinuglar, perfect, active, indicative: to kill
+equorum: gentive plurual (of the horses)
+autem: post-postive "on the other hand"
+nomina: nominitive plural: the names
+
+
+"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; on the other hand, the names of the horses were Podargus, Lampon, Xanthus, and Dinus." 
 
 
 
@@ -72,12 +132,23 @@ Identify the form of the adjective maiorem (gender, case, number, degree).
 >>the adjectvive mairoem is accusative singular feminine and serving as the irregular comparative
 
 Explain the construction of the verbal unit flumine admisso.
->> both are in the abaltive case so it is being used as an abaltive of means (i.e. "by letting in a river"
+>> both are in the abaltive case so it is being used as an abaltive absolute (i.e. "by letting in a river"
 
 What are the gender, number, case, and antecedent of qui?
+>>It is masculine, plural, nomintive and the antecedent is equos. 
+
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+>>A form of sum "to be". The horses names "were"
+
+
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
+>>an interesting thing that I noticed that Hyginus did was in the 9th section he included the use of "cum Abdero famulo." Normally, when I see cum I immediately think it will be a part of a temporal clause. However, Hyginus is having cum be placed next two these two abaltive forms so that it would become "with" instead of a form of time like "when."
+
+>>another cool thing that Hyginus uses is the irregular comparative of maiorem. Just by using this one word, we know that Jupiter helped him clean the stall for the majority of the time. This one word helps us get a much better of the situation and just how much Jupiter aided in cleaning the manure. 
+
+
 
 Submitting your work
 In your github repository, create a file named translation3.md.
