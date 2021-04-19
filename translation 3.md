@@ -51,7 +51,7 @@ stercus: accustive singular of dung
 abluit: 3rd person, singular, perfect, active, indicative of abluo "to wash off"
 
 
-"He cleaned the stall dung of the king Augeas in one day, Juppiter helping him for the most part; by letting in a river he washed away all of the dung." 
+"He cleaned the stall dung of the king Augeas in one day, while Jupiter was his helper for the most part; by letting in a river he washed away all of the dung." 
 
 
 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
@@ -61,7 +61,7 @@ taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 B. Grammatical questions
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 
->>Iove is in the ablative case and it is being used in an ablative absolute construction. 
+>>Iove is in the ablative case and it is being used in an ablative absolute construction. "While Jupiter was his helper..." 
 
 What case is stercus, and why is it in that case?
 
