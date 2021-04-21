@@ -116,8 +116,8 @@ Eurystheo regi
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeu
->Nemea, ae f. (the City Neamea)
->EDIT
+>Nemeus, a, um  (the City Neamea)
+
 Hydram Lernaeam
 >Hydra, ae, f. Hydra
 
