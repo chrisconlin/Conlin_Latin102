@@ -72,10 +72,12 @@ So, this fourth sentence translates to: "Hercules iecit famulum, quem Deianira m
 
 Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
-"Ut dictum est Hercules immortalitatem, sed Deianira interfecit se ne factum ferret."
+"Dictur Herculem ad immortalitatem ascendisse, sed ob id factum Deianira se interfecit."
 
-"Ut clause"
 ferret: third person, singualr, imperfect, active, subjunctive of fero
+
+ascendo, ascendere, ascendi, ascensum
+
 Vocabulary
 In addition to your required vocabulary, consult the vocabulary notes from previous translation and composition assignments on this subject.
 
