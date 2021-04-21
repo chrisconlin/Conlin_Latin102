@@ -108,7 +108,7 @@ Thraciae rex
 >Thracia, Thraciae f. (Thracia)
 
 cum Abdero
->Abdērus, abderi, masc. (Abdera the slave)
+>Abdērus, abderi, masc. (Abderus the slave)
 
 Eurystheo regi
 >Eurystheus, Eurysthei (m) (Eurystheus)
@@ -117,7 +117,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeu
 >Nemea, ae f. (the City Neamea)
->
+>EDIT
 Hydram Lernaeam
 >Hydra, ae, f. Hydra
 
@@ -125,10 +125,10 @@ aprum Erymanthium
 >Erumanthius, a, um, adj
 
 aves Stymphalides
->Stymphalicus, a, um (belonging to Stymphalicus)
+>Stymphalis, Stymphalidis
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
->Amazoni-cus, a, um (Amazonian)
+>Amazonus, -a, -um (Amazonian)
 
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
@@ -143,29 +143,29 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by with a great blowing of his poisonous breath.
-> a afflato magno
+>afflatu magno
 
 The Hydra killed passers by with a greater blowing of his poisonous breath.
->a afflato maior
+>afflatu maiori
 
 The Hydra killed passers by with the greatest blowing of his poisonous breath.
->a afflato maximus
+>afflato maximo
 
 The victims died in great torment.
->in cruciato magno
+>cruciatu magno
 
 The victims died in greater torment.
->in cruciato maior
+>cruciato maior
 
 The victims died in the greatest torment.
->in cruciato maximus
+>cruciato maximus
 
 Hercules cleaned a great part of the stables.
 >partem magnam
 
 Hercules cleaned a greater part of the stables.
->partem maior
+>partem maiorem
 
 Hercules cleaned the greatest part of the stables.
->partem maximus
+>partem maximam
 
