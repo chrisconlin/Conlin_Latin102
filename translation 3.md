@@ -52,7 +52,7 @@ stercus: accustive singular of dung
 abluit: 3rd person, singular, perfect, active, indicative of abluo "to wash off"
 
 
-"He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; by letting in a river he washed away all of the dung." 
+"He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung." 
 
 
 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
@@ -81,11 +81,7 @@ adduxit: 3rd person, singular, perfect, active, indicative of adduco: to bring
 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 
-Diomedem
-
->>Thraciae regem
-
-et equos quattuor eius
+Diomedem Thraciae regem et equos quattuor eius
 
 >>qui carne humana "vescebantur"
 
@@ -114,7 +110,7 @@ autem: post-postive "on the other hand"
 nomina: nominitive plural: the names
 
 
-"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; on the other hand, the names of the horses were Podargus, Lampon, Xanthus, and Dinus." 
+"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." 
 
 
 
@@ -132,7 +128,7 @@ Identify the form of the adjective maiorem (gender, case, number, degree).
 >>the adjectvive mairoem is accusative singular feminine and serving as the irregular comparative
 
 Explain the construction of the verbal unit flumine admisso.
->> both are in the abaltive case so it is being used as an abaltive absolute (i.e. "by letting in a river"
+>> both are in the abaltive case so it is being used as an abaltive absolute (i.e. "after the river had been let in")
 
 What are the gender, number, case, and antecedent of qui?
 >>It is masculine, plural, nomintive and the antecedent is equos. 
