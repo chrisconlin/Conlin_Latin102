@@ -24,7 +24,7 @@ totum stercus
 >stercus, ŏris, n. "shit"
 
 ceruum ferocem
-> cervus, cervi, n. "bad spices"
+> cervus, cervi, n. "stag"
 > Ferox, Ferocis "fierce"
 
 tantam vim
