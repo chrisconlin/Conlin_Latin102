@@ -1,3 +1,5 @@
+**Full credit**
+
 Quiz 3
 Review
 how dictionaries list forms for nouns, adjectives and verbs
