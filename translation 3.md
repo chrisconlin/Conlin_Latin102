@@ -110,7 +110,10 @@ autem: post-postive "on the other hand"
 nomina: nominitive plural: the names
 
 
-"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." 
+"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis"
+
+
+Translation: "He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis. Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis."
 
 
 
@@ -143,7 +146,6 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 >>an interesting thing that I noticed that Hyginus did was in the 9th section he included the use of "cum Abdero famulo." Normally, when I see cum I immediately think it will be a part of a temporal clause. However, Hyginus is having cum be placed next two these two abaltive forms so that it would become "with" instead of a form of time like "when."
 
 >>another cool thing that Hyginus uses is the irregular comparative of maiorem. Just by using this one word, we know that Jupiter helped him clean the stall for the majority of the time. This one word helps us get a much better of the situation and just how much Jupiter aided in cleaning the manure. 
-
 
 
 Submitting your work
