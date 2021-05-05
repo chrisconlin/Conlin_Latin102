@@ -74,7 +74,7 @@ Mycenis: dative or ablative of Mycenae
 vivum: that which is alive
 adduxit: 3rd person, singular, perfect, active, indicative of adduco: to bring 
 
-"He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis"
+"He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenae"
 
 
 
@@ -113,7 +113,7 @@ nomina: nominitive plural: the names
 "Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis"
 
 
-Translation: "He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis. Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis."
+Translation: "He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenae. Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis."
 
 
 
