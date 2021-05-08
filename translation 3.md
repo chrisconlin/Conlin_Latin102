@@ -89,7 +89,7 @@ Diomedem Thraciae regem et equos quattuor eius
 
 cum Abdero famulo "interfecit"
 
->>equorum autem nomina Podargus Lampon Xanthus Dinus ❌ **This is an independent clause!  Compare your answer to question 6 in part B.**
+>>equorum autem nomina Podargus Lampon Xanthus Dinus ❌ **This is an independent clause!  Compare your answer to question 6 in part B.** REVISION: Take out the indentation to show that it is an independent clause. 
 
 
 
@@ -112,7 +112,7 @@ autem: post-postive "on the other hand"
 nomina: nominitive plural: the names
 
 
-"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis" ❌ **Use nominative in translation:  *Mycenae*.**
+"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis" ❌ **Use nominative in translation:  *Mycenae*.** REVISION: Mycenae. 
 
 
 Translation: "He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenae. Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis."
