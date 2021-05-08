@@ -89,7 +89,7 @@ Diomedem Thraciae regem et equos quattuor eius
 
 cum Abdero famulo "interfecit"
 
->>equorum autem nomina Podargus Lampon Xanthus Dinus ❌ **This is an independent clause!  Compare your answer to question 6 in part B.** REVISION: Take out the indentation to show that it is an independent clause. 
+>>equorum autem nomina Podargus Lampon Xanthus Dinus ❌ **This is an independent clause!  Compare your answer to question 6 in part B.** REVISION: Take out the indentation to show that it is an independent clause. The verbal form of sum does not need to be in there to understand its meaning and usage in the sentence (i.e. "the names of the horses were Podargus, Lampon, Xanthus, and Dinus." This is clearly an independent clause). 
 
 
 
