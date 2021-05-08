@@ -1,3 +1,5 @@
+**Needs one minor revision.**
+
 Translation 3: Hercules’ sixth task
 Glossary and notes
 Note: the verb sum, esse, fui, futurus has no present participle! If you want to construct the equivalent of a normal verbal unit using a participle with a noun, you can simply omit the verb “to be” and include the predicate (just as you can with finite forms of sum: Herculis fortis could be a complete sentence). This is most easily recognizable when the noun is an ablative in ablative absolute construction.
@@ -87,7 +89,7 @@ Diomedem Thraciae regem et equos quattuor eius
 
 cum Abdero famulo "interfecit"
 
->>equorum autem nomina Podargus Lampon Xanthus Dinus
+>>equorum autem nomina Podargus Lampon Xanthus Dinus ❌ **This is an independent clause!  Compare your answer to question 6 in part B.**
 
 
 
@@ -110,7 +112,7 @@ autem: post-postive "on the other hand"
 nomina: nominitive plural: the names
 
 
-"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis"
+"Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus." "He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis" ❌ **Use nominative in translation:  *Mycenae*.**
 
 
 Translation: "He cleaned the stall of manure of the king Augeas on one day, while Jupiter was his helper for the most part; after the river had been let in he washed away all of the dung. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenae. Diomedes, King of Thrace, and his four horses, which fed on human flesh, he killed along with the servant Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. He brought alive the bull with which Pasiphae had sex with from the island of Crete to Mycenis."
@@ -128,7 +130,7 @@ What case is stercus, and why is it in that case?
 
 Identify the form of the adjective maiorem (gender, case, number, degree).
 
->>the adjectvive mairoem is accusative singular feminine and serving as the irregular comparative
+>>the adjectvive maiorem is accusative singular feminine and serving as the irregular comparative
 
 Explain the construction of the verbal unit flumine admisso.
 >> both are in the abaltive case so it is being used as an abaltive absolute (i.e. "after the river had been let in")
